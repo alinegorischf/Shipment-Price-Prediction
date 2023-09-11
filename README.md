@@ -16,8 +16,10 @@ The focus of this project is to develop a Business Problem using the knowledge o
     * Look and understand the DATASET
     * Understand the VARIABLES
 5. Identify at least 10 BUSINESS QUESTIONS
+   
    The questions should be visualizations. (Make sure that the questions answer the business problem)
-6. Analysis & Recommendations
+7. Analysis & Recommendations
+   
    We can make the presentation on PPT, Tableau, and so on..... Focus on STORYTELLING
    Fast presentation, It's only 5 min for each group to present.
 
