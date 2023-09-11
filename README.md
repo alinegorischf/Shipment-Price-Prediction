@@ -11,23 +11,30 @@
 The focus of this project is to develop a Business Problem using the knowledge of EDA and Data Processing, presented in the course.
 
 #### Steps of the project:
+
 1. Identify the DATASET
-3. Identify the BUSINESS PROBLEM
-    * Look and understand the DATASET
-    * Understand the VARIABLES
-5. Identify at least 10 BUSINESS QUESTIONS
-   
+
+2. Identify the BUSINESS PROBLEM:
+
+   * Look and understand the DATASET
+   * Understand the VARIABLES
+
+3. Identify at least 10 BUSINESS QUESTIONS:
+
    The questions should be visualizations. (Make sure that the questions answer the business problem)
-7. Analysis & Recommendations
-   
+
+4. Analysis & Recommendations:
+
    We can make the presentation on PPT, Tableau, and so on..... Focus on STORYTELLING
    Fast presentation, It's only 5 min for each group to present.
 
 #### Criteria of Evaluation:
+
 * Notebook 60%
 * Presentation 30%
 * Storytelling 10%
 
 #### Deadline:
+
 * Notebook - 21/09
 * Presentation - 27/09
