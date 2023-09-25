@@ -10,6 +10,10 @@
 
 The focus of this project is to develop a Business Problem using the knowledge of EDA and Data Processing, presented in the course.
 
+### Code Notebook:
+
+Link: [https://colab.research.google.com/drive/1Z93bT-VuALbsqGm-3wkDgOk-WaL7aqSE?usp=sharing]
+
 #### Steps of the project:
 
 1. Identify the DATASET
